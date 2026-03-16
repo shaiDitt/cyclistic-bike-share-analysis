@@ -42,7 +42,7 @@ A análise do 1º trimestre de 2019 e 2020 revelou padrões distintos:
 
 Com base nos dados, propus as seguintes frentes de ação presentes na apresentação executiva [Bike-share.pdf](./Bike-share.pdf):
 
-> ![Gráfico de Comparação entre Estações](/Visualizações/mapa_estacoes.png.png)
+> ![Gráfico de Comparação entre Estações](/Visualizações/mapa_estacoes.png)
 
 ### **ESTRATÉGIA A - Foco em Clientes Casuais**
 * **Pacotes de Fim de Semana:** Criar assinaturas específicas que incluam viagens mais longas (45-60 min).

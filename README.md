@@ -54,4 +54,11 @@ Com base nos dados, propus as seguintes frentes de ação presentes na apresenta
 * **Campanhas em Áreas Comerciais:** Redirecionar o orçamento de mídia digital para regiões com foco em deslocamento diário.
 
 ---
+
+## 🏁 Conclusão
+Este estudo de caso demonstrou que a diferença entre usuários não está apenas na frequência, mas na **finalidade de uso**. Enquanto os membros garantem a estabilidade da receita através do uso utilitário, os usuários casuais representam a maior oportunidade de crescimento orgânico e lucro por viagem.
+
+A implementação das estratégias sugeridas permitirá à Cyclistic não apenas converter usuários, mas otimizar sua frota de acordo com a demanda sazonal e geográfica identificada nesta análise.
+
+---
 **Desenvolvido por Shaini Dittberner** Analista de Dados em formação | [Meu LinkedIn](https://www.linkedin.com/in/shainidittberner/)
